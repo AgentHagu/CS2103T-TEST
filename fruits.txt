@@ -1,3 +1,4 @@
 HI, I'm adding a fruit
 BANANA
 APPLE
+WATERMELON
